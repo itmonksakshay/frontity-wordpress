@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Frontity](https://frontity.org/).
 
+
+Heroku Deploy Url :- https://frontity-wordpress.herokuapp.com/
+
 #### Table of Contents
 
 - [Launch a development server](#launch-a-development-server)
